@@ -1,0 +1,1 @@
+export const DEFAULT_IMAGE_URL = 'https://fastly.picsum.photos/id/133/600/700.jpg?hmac=d9l7_-nhso9mWEvlf-38O4WeHNnw09O71g9PLfyNyqI'
